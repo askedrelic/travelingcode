@@ -1,4 +1,3 @@
-// web.go
 package main
 
 import (

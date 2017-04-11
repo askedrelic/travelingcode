@@ -1,1 +1,1 @@
-web: web
+web: hello-world-go
